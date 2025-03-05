@@ -1,4 +1,4 @@
-# All the Best for Exams 😄✌🏻
+# all the Best for Exams ✌🏻
 
 To access Practical download zip file via CODE > DOWNLOAD ZIP
 
