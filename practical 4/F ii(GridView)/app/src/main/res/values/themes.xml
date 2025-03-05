@@ -1,0 +1,10 @@
+<resources xmlns:tools="http://schemas.android.com/tools">
+    <!-- Base application theme. -->
+    <style name="Base.Theme.FiiGridView" parent="@style/Theme.MaterialComponents.Light">
+        <!-- Customize your light theme here. -->
+        <!-- <item name="colorPrimary">@color/my_light_primary</item> -->
+        <item name="colorPrimary">#BD97FF</item>
+    </style>
+
+    <style name="Theme.FiiGridView" parent="Base.Theme.FiiGridView" />
+</resources>

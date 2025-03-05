@@ -1,0 +1,10 @@
+<resources xmlns:tools="http://schemas.android.com/tools">
+    <!-- Base application theme. -->
+    <style name="Base.Theme.CiiTableLayout" parent="@style/Theme.MaterialComponents.Light">
+        <!-- Customize your light theme here. -->
+        <!-- <item name="colorPrimary">@color/my_light_primary</item> -->
+        <item name="colorPrimary">#B28CF6</item>
+    </style>
+
+    <style name="Theme.CiiTableLayout" parent="Base.Theme.CiiTableLayout" />
+</resources>

@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+    >
+
+
+    <item
+        android:id="@+id/video"
+        android:icon="@drawable/video_icon"
+        android:title="Video"
+        />
+    <item
+        android:id="@+id/notes"
+        android:icon="@drawable/notes_icon"
+        android:title="Notes"
+        />
+
+    <item
+        android:id="@+id/quiz"
+        android:icon="@drawable/quiz_icon"
+        android:title="Quiz"
+
+        />
+
+</menu>

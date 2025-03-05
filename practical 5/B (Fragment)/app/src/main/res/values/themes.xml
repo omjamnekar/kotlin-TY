@@ -1,0 +1,11 @@
+<resources xmlns:tools="http://schemas.android.com/tools">
+    <!-- Base application theme. -->
+    <style name="Base.Theme.BFragment" parent="@style/Theme.MaterialComponents.Light">
+        <!-- Customize your light theme here. -->
+
+        <item name="colorPrimary">#AB81F6</item>
+        <!-- <item name="colorPrimary">@color/my_light_primary</item> -->
+    </style>
+
+    <style name="Theme.BFragment" parent="Base.Theme.BFragment" />
+</resources>
