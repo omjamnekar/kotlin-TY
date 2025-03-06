@@ -1,0 +1,10 @@
+<resources xmlns:tools="http://schemas.android.com/tools">
+    <!-- Base application theme. -->
+    <style name="Base.Theme.CDialogFragment" parent="@style/Theme.MaterialComponents.Light">
+        <!-- Customize your light theme here. -->
+        <!-- <item name="colorPrimary">@color/my_light_primary</item> -->
+        <item name="colorPrimary">#C5A4FF</item>
+    </style>
+
+    <style name="Theme.CDialogFragment" parent="Base.Theme.CDialogFragment" />
+</resources>

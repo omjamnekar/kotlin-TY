@@ -1,0 +1,27 @@
+[
+  {
+    "grade": "A",
+    "rno": 1,
+    "sname": "om"
+  },
+  {
+    "grade": "A",
+    "rno": 2,
+    "sname": "sarthak"
+  },
+  {
+    "grade": "A",
+    "rno": 3,
+    "sname": "parth"
+  },
+  {
+    "grade": "A+",
+    "rno": 4,
+    "sname": "lavanya"
+  },
+  {
+    "grade": "A",
+    "rno": 5,
+    "sname": "shiva"
+  }
+]
